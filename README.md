@@ -1,4 +1,4 @@
-### Genetic Algorithm based flight--gate allocation scheme in the airport
+### *Genetic Algorithm based flight--gate allocation scheme in the airport*
 
 Created by Yijie Zhu, Haowei Zhang, Weicheng Zhang from Zhejiang University
 
@@ -11,6 +11,7 @@ The competition content detail is in the file:
 ```
 the problem can be casted to a mathametical discrete optimization problem.
 Our algorithm is mainly based on [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm) ,  which is described in the solution report file:   
+
 ```   
     ./F18103350032.pdf
 ```
